@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
-🔭 I’m currently learning ML
-
-👯 I’m looking to collaborate on Kaggle competitions
-
-📫 How to reach me: hello@pamelakinga.com
+- 🔭 I’m currently learning ML
+- 👯 I’m looking to collaborate on Kaggle competitions
+- 📫 How to reach me: hello@pamelakinga.com
 
 [pamelakinga.com](https://pamelakinga.com/)
 
