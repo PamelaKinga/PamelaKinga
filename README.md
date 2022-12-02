@@ -7,7 +7,7 @@
 📫 How to reach me: hello@pamelakinga.com
 
 
-https://pamelakinga.com/
+pamelakinga.com
 
 <!--
 **PamelaKinga/PamelaKinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
