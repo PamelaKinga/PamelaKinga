@@ -6,7 +6,7 @@
 
 📫 How to reach me: hello@pamelakinga.com
 
-
+[pamelakinga.com](https://pamelakinga.com/)
 pamelakinga.com
 
 <!--
