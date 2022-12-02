@@ -3,6 +3,7 @@
 - 🔭 I’m currently learning ML
 - 👯 I’m looking to collaborate on Kaggle competitions
 - 📫 How to reach me: hello@pamelakinga.com
+- ⚡ Fun fact:I have a pet bunny & enjoy competing in triathlons
 
 [pamelakinga.com](https://pamelakinga.com/)
 
